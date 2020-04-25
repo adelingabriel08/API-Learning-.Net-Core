@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Adelin\\.nuget\\packages\\": {},
+    "C:\\Users\\adeli\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adelin\\Desktop\\GitHub Personal\\Learning\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\adeli\\Documents\\API-Learning-.Net-Core\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Adelin\\Desktop\\GitHub Personal\\Learning\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Adelin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adelin\\Desktop\\GitHub Personal\\Learning\\API\\obj\\",
+      "projectPath": "C:\\Users\\adeli\\Documents\\API-Learning-.Net-Core\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\adeli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adeli\\Documents\\API-Learning-.Net-Core\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Adelin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\adeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

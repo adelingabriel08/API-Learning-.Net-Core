@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Adelin\\Desktop\\GitHub Personal\\Learning\\API\\API.csproj",
+    "projectUniqueName": "C:\\Users\\adeli\\Documents\\API-Learning-.Net-Core\\API\\API.csproj",
     "projectName": "API",
-    "projectPath": "C:\\Users\\Adelin\\Desktop\\GitHub Personal\\Learning\\API\\API.csproj",
-    "outputPath": "C:\\Users\\Adelin\\Desktop\\GitHub Personal\\Learning\\API\\obj\\",
+    "projectPath": "C:\\Users\\adeli\\Documents\\API-Learning-.Net-Core\\API\\API.csproj",
+    "outputPath": "C:\\Users\\adeli\\Documents\\API-Learning-.Net-Core\\API\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -47,7 +47,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
     }
   }
 }

@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Adelin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Adelin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Learning.2001610845.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Adelin\Desktop\GitHub Personal\Learning" t="IncludeFlat">
+    <e p="C:\Users\adeli\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\adeli\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_Learning.-1902828679.00" t="ExcludeRecursive" />
+    <e p="C:\Users\adeli\Documents\API-Learning-.Net-Core" t="IncludeFlat">
       <e p="API" t="IncludeRecursive">
         <e p="API.csproj" t="IncludeRecursive" />
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
+          <e p="ProductsController.cs" t="Include" />
           <e p="WeatherForecastController.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="Product.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
