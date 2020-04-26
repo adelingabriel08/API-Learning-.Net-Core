@@ -13,6 +13,9 @@
           <e p="ProductsController.cs" t="Include" />
           <e p="WeatherForecastController.cs" t="Include" />
         </e>
+        <e p="Data" t="Include">
+          <e p="StoreContext.cs" t="Include" />
+        </e>
         <e p="Entities" t="Include">
           <e p="Product.cs" t="Include" />
         </e>
