@@ -3,6 +3,8 @@
   <component name="ContentModelStore">
     <e p="C:\Users\adeli\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
     <e p="C:\Users\adeli\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_Learning.-1902828679.00" t="ExcludeRecursive" />
+    <e p="C:\Users\adeli\AppData\Roaming\JetBrains\Rider2020.1\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\adeli\AppData\Roaming\JetBrains\Rider2020.1\extensions" t="IncludeRecursive" />
     <e p="C:\Users\adeli\Documents\API-Learning-.Net-Core" t="IncludeFlat">
       <e p="API" t="IncludeRecursive">
         <e p="API.csproj" t="IncludeRecursive" />
@@ -12,17 +14,6 @@
         <e p="Controllers" t="Include">
           <e p="ProductsController.cs" t="Include" />
           <e p="WeatherForecastController.cs" t="Include" />
-        </e>
-        <e p="Data" t="Include">
-          <e p="Migrations" t="Include">
-            <e p="20200427133700_Products.cs" t="Include" />
-            <e p="20200427133700_Products.Designer.cs" t="Include" />
-            <e p="StoreContextModelSnapshot.cs" t="Include" />
-          </e>
-          <e p="StoreContext.cs" t="Include" />
-        </e>
-        <e p="Entities" t="Include">
-          <e p="Product.cs" t="Include" />
         </e>
         <e p="Learning.db" t="Include" />
         <e p="obj" t="ExcludeRecursive">
@@ -38,6 +29,55 @@
         </e>
         <e p="Startup.cs" t="Include" />
         <e p="WeatherForecast.cs" t="Include" />
+      </e>
+      <e p="Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Core.csproj" t="IncludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="BaseEntity.cs" t="Include" />
+          <e p="Product.cs" t="Include" />
+          <e p="ProductBrand.cs" t="Include" />
+          <e p="ProductType.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="IProductRepository.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Infra" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Configs" t="Include">
+          <e p="ProductConfig.cs" t="Include" />
+        </e>
+        <e p="Data" t="Include">
+          <e p="Migrations" t="Include">
+            <e p="20200428105306_ProductTypeBrand.cs" t="Include" />
+            <e p="20200428105306_ProductTypeBrand.Designer.cs" t="Include" />
+            <e p="StoreContextModelSnapshot.cs" t="Include" />
+          </e>
+          <e p="ProductRepository.cs" t="Include" />
+          <e p="SeedData" t="Include">
+            <e p="brands.json" t="Include" />
+            <e p="products.json" t="Include" />
+            <e p="types.json" t="Include" />
+          </e>
+          <e p="StoreContext.cs" t="Include" />
+          <e p="StoreContextSeed.cs" t="Include" />
+        </e>
+        <e p="Infra.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Infra.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
       </e>
       <e p="Learning.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
