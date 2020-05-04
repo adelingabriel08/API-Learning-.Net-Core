@@ -12,7 +12,9 @@
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
+          <e p="BrandsController.cs" t="Include" />
           <e p="ProductsController.cs" t="Include" />
+          <e p="ProductTypesController.cs" t="Include" />
           <e p="WeatherForecastController.cs" t="Include" />
         </e>
         <e p="Learning.db" t="Include" />
@@ -40,7 +42,9 @@
           <e p="ProductType.cs" t="Include" />
         </e>
         <e p="Interfaces" t="Include">
+          <e p="IProductBrandRepository.cs" t="Include" />
           <e p="IProductRepository.cs" t="Include" />
+          <e p="IProductTypeRepository.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -61,7 +65,9 @@
             <e p="20200428105306_ProductTypeBrand.Designer.cs" t="Include" />
             <e p="StoreContextModelSnapshot.cs" t="Include" />
           </e>
+          <e p="ProductBrandRepository.cs" t="Include" />
           <e p="ProductRepository.cs" t="Include" />
+          <e p="ProductTypeRepository.cs" t="Include" />
           <e p="SeedData" t="Include">
             <e p="brands.json" t="Include" />
             <e p="products.json" t="Include" />
